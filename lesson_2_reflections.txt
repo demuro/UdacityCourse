@@ -1,3 +1,6 @@
 What happens when you initialize a repository? Why do you need to do it?
 Inizialize a repository is necessary with git init to turn a folder into a repository.
 I need to do it to keep track of my changes as in every versionig control.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I can do by keeping files there 'till I m sure the implementation is complete
