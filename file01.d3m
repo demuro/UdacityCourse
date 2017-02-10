@@ -3,6 +3,12 @@ this file is an example,
 it contains sample text,
 to keep track of it,
 so that a git makes sense.
-arrivederci! 
 
-..fk5
+arrivederci!
+
+this is only the text to see what happens in a merge
+
+again another test
+
+...
+...fk4 
